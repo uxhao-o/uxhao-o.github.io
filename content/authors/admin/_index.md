@@ -75,11 +75,7 @@ education:
     date_start: 2018-09-01
     date_end: 2022-05-31
     summary: |
-      ✌️Sep. 2019 and 2020, Outstanding Student Cadre of Chengdu University.
-      ✌️Sep. 2019, 2020, and 2021 Outstanding Member and Cadre of the CCYL.
-      🎖 Sep. 2019 and 2020, Chengdu University Scholarship.
-      🎖 Sep. 2021, National Encouragement Scholarship of China.
-      🎖 Jun. 2022, Outstanding Graduates of Chengdu University.
+      Sep. 2019 and 2020, Outstanding Student Cadre of Chengdu University. Sep. 2019, 2020, and 2021 Outstanding Member and Cadre of the CCYL. Sep. 2019 and 2020, Chengdu University Scholarship. Sep. 2021, National Encouragement Scholarship of China. Jun. 2022, Outstanding Graduates of Chengdu University.
 
 work:
   - position: Senior AI Research Scientist
