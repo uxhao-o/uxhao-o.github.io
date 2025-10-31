@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Biomedical Engineering PhD.
+role: Biomedical Engineering PhD
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
