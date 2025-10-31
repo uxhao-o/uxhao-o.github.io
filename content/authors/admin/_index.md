@@ -109,15 +109,19 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python & PyTorch & Matlab
         description: ''
         percent: 95
         icon: code-bracket
+      - name: Deep Learning
+        description: ''
+        percent: 100
+        icon: chart-bar
       - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Cloud Computing
         description: ''
         percent: 85
         icon: cloud
@@ -133,15 +137,15 @@ skills:
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Sci Reading
         description: ''
         percent: 70
         icon: book-open
 
 languages:
-  - name: English
+  - name: Chinese
     percent: 100
-  - name: Spanish
+  - name: English
     percent: 50
 
 # Awards.
@@ -149,27 +153,27 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+#  - title: Best Paper Award
+#    url: https://neurips.cc/
+#    date: '2022-12-01'
+#    awarder: NeurIPS
+#    icon: hero/trophy
+#    summary: |
+#      Awarded for groundbreaking work on efficient training of large models.
+  - title: China National Scholarship
+#    url: https://www.nsf.gov/
+    date: '2024-09-30'
+    awarder: China National Scholarship
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      ￥20,000 grant.
+  - title: Outstanding Graduate of Guizhou Province
+#    url: https://www.stanford.edu/
+    date: '2025-06-30'
+    awarder: Guizhou Province
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded for outstanding performance during their time at school.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Hao Xu is currently pursuing on the PhD degree in biomedical engineering from University of Electronic Science and Technology of China (UESTC). He earned Bachelor's and Master's degrees in Computer Science and Technology from Chengdu university and Guizhou university, respectively. His research interests include deep learning, neuroscience, neuroimaging analysis, the analysis of medical images, and research into schizophrenia. He has published three academic papers in the field of deep learning for medical image analysis.
