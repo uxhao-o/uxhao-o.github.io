@@ -2,10 +2,10 @@
 title: "G2ViT: Graph neural network-guided vision transformer enhanced network for retinal vessel and coronary angiograph segmentation"
 authors:
 - admin
-- et al.
+- Yun Wu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "Corresponding author"
 date: "2024-08-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ abstract: Blood vessel segmentation is a crucial stage in extracting morphologic
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Medical Image Analysis
 featured: true
 
 #hugoblox:
@@ -74,9 +74,16 @@ slides: ""
 ---
 
 > [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+> Click the *Cite* button above to cite this paper.
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+```bash
+@article{xu2024g2vit,
+  title={G2ViT: Graph neural network-guided vision transformer enhanced network for retinal vessel and coronary angiograph segmentation},
+  author={Xu, Hao and Wu, Yun},
+  journal={Neural Networks},
+  volume={176},
+  pages={106356},
+  year={2024},
+  publisher={Elsevier}
+}
+```
