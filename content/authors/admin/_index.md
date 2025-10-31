@@ -56,7 +56,7 @@ education:
     institution: UESCT
     icon: ""
     date_start: 2025-09-01
-    date_end: 2029-06-30
+    date_end: ''
     summary: |
       The primary research focus is on using deep learning to analyze neuroimaging for the diagnosis of schizophrenia.
     # button:
@@ -68,7 +68,12 @@ education:
     date_start: 2022-09-01
     date_end: 2025-06-30
     summary: |
-      Specialized in machine learning and robotics.
+      Nov. 2023, Second Prize of Guizhou Province in the 18th The Challenge Cup. \
+      Sep. 2023, Guizhou University Master Scholarship. \
+      Dec. 2024, National Scholarship for Graduate Students in China. \
+      Dec. 2024, Guizhou University Three Good Graduate Student. \
+      Apr. 2025, Guizhou University Master Scholarship. \
+      Jun. 2025, Outstanding Graduate of Guizhou Province.
   - area: BS Computer Science and Technology
     institution: Chengdu University
     icon: ""
@@ -82,22 +87,22 @@ education:
       Jun. 2022, Outstanding Graduates of Chengdu University.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: Currently not employed by any company
+#    company_name: Meta AI
+#    company_url: 'https://ai.meta.com/'
+#    icon: ''
+#    date_start: 2020-01-01
+#    date_end: ''
+#    summary: |2-
+#      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+#  - position: AI Research Intern
+#    company_name: OpenAI
+#    company_url: 'https://openai.com/'
+#    icon: ''
+#    date_start: 2019-06-01
+#    date_end: 2019-12-31
+#    summary: |
+#      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
