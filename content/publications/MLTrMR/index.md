@@ -8,8 +8,8 @@ authors:
 - Maohua Gu
 - Rongpin Wang
 author_notes:
-- "First author"
-- "Corresponding author"
+#- "First author"
+#- "Corresponding author"
 date: "2025-06-05T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ publishDate: "2025-06-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Visual Communication and Image Representation* (2025): 104496"
+publication: "*Journal of Visual Communication and Image Representation*, 104496"
 publication_short: ""
 
 abstract: Dental fluorosis is a chronic condition caused by long-term overconsumption of fluoride, which leads to changes in the appearance of tooth enamel. Diagnosing its severity can be challenging for dental professionals, and limited research on deep learning applications in this field. Therefore, we propose a novel deep learning model, masked latent transformer with random masking ratio (MLTrMR), to advance the diagnosis of dental fluorosis. MLTrMR enhances contextual learning by using a masked latent modeling scheme based on Vision Transformer. It extracts latent tokens from the original image with a latent embedder, processes unmasked tokens with a latent transformer (LT) block, and predicts masked tokens. To improve model performance, we incorporate an auxiliary loss function. MLTrMR achieves state-of-the-art results, with 80.19% accuracy, 75.79% F1 score, and 81.28% quadratic weighted kappa on the first open-source dental fluorosis image dataset (DFID) we constructed.

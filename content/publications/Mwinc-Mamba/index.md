@@ -9,8 +9,8 @@ authors:
 - Rongpin Wang
 - Youliang Tian
 author_notes:
-- "First author"
-- "Corresponding author"
+#- "First author"
+#- "Corresponding author"
 date: "2025-05-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publishDate: "2025-05-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biomedical Signal Processing and Control* 103 (2025): 107439"
+publication: "*Biomedical Signal Processing and Control*, 103, 107439"
 publication_short: ""
 
 abstract: Skeletal fluorosis is a chronic metabolic bone disease caused by long-term overconsumption of fluoride, posing a significant health risk to humans globally. However, even professional radiologists cannot accurately determine the severity of lesions in skeletal fluorosis X-rays. Currently, there is limited research on using deep learning to diagnose skeletal fluorosis and no public datasets. Therefore, we construct the world’s first open-source skeletal fluorosis X-ray dataset (SFXRay). To advance the automated grading diagnosis of skeletal fluorosis, we propose a novel convolutional state space model with multi-window cross-scan (Mwinc-Mamba). Mwinc-Mamba adopts a dual-branch structure, integrating the convolutional neural network (CNN) with the state space model (SSM). The CNN branch focuses on extracting local features, whereas the SSM branch models long-range dependencies. This effective combination compensates for the SSM’s shortcoming, excelling at modeling long-range dependencies but not extracting local features. Additionally, we introduce a multi-window cross-scan mechanism in SSM. It divides the patches into multiple windows and performs cross-scan to capture multi-grained lesion features, thereby accurately identifying the severity of lesions. On the SFXRay dataset, the Mwinc-Mamba model achieves diagnostic accuracies of 83.33% and 66.67% for binary and multi-classification respectively, significantly outperforming other deep learning models. Notably, in multi-classification, the accuracy of the Mwinc-Mamba model differs by only 3.33% from the average accuracy of the radiologists, highlighting its strong potential for clinical application.
