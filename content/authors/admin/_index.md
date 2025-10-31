@@ -56,7 +56,7 @@ education:
     institution: UESCT
     icon: ""
     date_start: 2025-09-01
-    date_end: Present
+    date_end: 2029-06-01
     summary: |
       The primary research focus is on using deep learning to analyze neuroimaging for the diagnosis of schizophrenia.
     # button:
