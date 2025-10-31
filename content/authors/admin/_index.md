@@ -56,7 +56,7 @@ education:
     institution: UESCT
     icon: ""
     date_start: 2025-09-01
-    date_end: 2029-06-01
+    date_end: 2029-06-30
     summary: |
       The primary research focus is on using deep learning to analyze neuroimaging for the diagnosis of schizophrenia.
     # button:
@@ -66,14 +66,14 @@ education:
     institution: Guizhou University
     icon: ""
     date_start: 2022-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
       Specialized in machine learning and robotics.
   - area: BS Computer Science and Technology
     institution: Chengdu University
     icon: ""
     date_start: 2018-09-01
-    date_end: 2022-05-31
+    date_end: 2022-05-30
     summary: |
       Sep. 2019 and 2020, Outstanding Student Cadre of Chengdu University. Sep. 2019, 2020, and 2021 Outstanding Member and Cadre of the CCYL. Sep. 2019 and 2020, Chengdu University Scholarship. Sep. 2021, National Encouragement Scholarship of China. Jun. 2022, Outstanding Graduates of Chengdu University.
 
