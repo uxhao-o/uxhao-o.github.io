@@ -52,7 +52,7 @@ interests:
   - Schizophrenia
 
 education:
-  - area: PhD Biomedical Engineering (Brain Science)
+  - area: PhD Biomedical Engineering
     institution: UESCT
     icon: ""
     date_start: 2025-09-01
