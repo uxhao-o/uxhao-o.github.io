@@ -39,7 +39,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/uxhao-o
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=haoxu
+    url: https://scholar.google.com/citations?user=9cjKAo0AAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-5164-8566
 
